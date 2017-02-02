@@ -1,2 +1,1 @@
-# Wolf3D
-# Wolf3D
+Création d'un labyrinthe en 3 Dimension en utilisant la technique de raycasting, utilisé par le jeu Wolfenstein de 1992
